@@ -1,0 +1,10 @@
+.navbar {
+  display: flex;
+  background-color: #6600ff;
+  padding: 8px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
