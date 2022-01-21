@@ -4,7 +4,10 @@
   padding: 8px;
   color: white;
   font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   text-align: center;
   border-bottom-right-radius: 6px;
   border-bottom-left-radius: 6px;
+  justify-content: center;
+  justify-items: center;
 }
